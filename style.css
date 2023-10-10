@@ -1,0 +1,36 @@
+.container{
+    width: 45%;
+    text-align: center;
+    background-color: rgb(207, 252, 252);
+}
+.dice1{
+    margin-right: 25px;
+    text-align: center;
+    display: inline-block;
+
+}
+.dice2{
+    margin-left: 25px;
+    text-align: center;
+    display: inline-block;
+}
+img{
+    height: 30vh;
+    width:auto;
+    border-radius: 25px;
+}
+p{
+    font-size: 25px;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h3{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
