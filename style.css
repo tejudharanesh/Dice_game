@@ -15,9 +15,9 @@
     display: inline-block;
 }
 img{
-    height: 30vh;
-    width:auto;
-    border-radius: 25px;
+    height: 220px;
+    width: 220px;
+    border-radius: 20px;
 }
 p{
     font-size: 25px;
@@ -33,4 +33,10 @@ h3{
 h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 50px;
+}
+button{
+    height: 220px;
+    width: 220px;
+    border: none;
+    background-color: rgb(207, 252, 252);
 }
